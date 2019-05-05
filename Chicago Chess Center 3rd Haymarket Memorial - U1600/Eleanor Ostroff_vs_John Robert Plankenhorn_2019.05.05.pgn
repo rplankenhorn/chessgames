@@ -1,0 +1,84 @@
+[Event "Chicago Chess Center 3rd Haymarket Memorial - U1600"]
+[Site "UIC Student Center East, Chicago, IL"]
+[Date "2019.05.05"]
+[Round "4"]
+[White "Eleanor Ostroff"]
+[Black "John Robert Plankenhorn"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Bb4 5. Bg5 h6 6. Bh4 O-O 7. e3 Be7 8. Bd3
+dxc4 9. Bxc4 Nc6 10. O-O a6 11. a3 b5 12. Bb3 Bb7 13. Re1 Na5 14. Bc2 Nc4 15. b4
+Nd5 16. Bxe7 Nxe7 {INACCURACY (+1.07)} ({(+0.53) The best move was} 16... Qxe7
+17. Nxd5 exd5 18. Qd3 g6 19. Qc3 a5 20. Ne5 Nxe5 21. dxe5 c5 22. bxc5 Rfc8 23.
+Qb2 Rxc5 24. Bd3 Ba6 25. Rac1 Rxc1 26. Rxc1 b4 27. Bxa6 Rxa6 28. axb4 axb4) 17.
+Ra2 {INACCURACY (+0.18)} ({(+1.07) The best move was} 17. Ne4 Bxe4 18. Bxe4 Nd5
+19. Nd2 Nc3 20. Bh7+ Kh8 21. Qc2 Nxd2 22. Qxd2 Kxh7 23. Qxc3 Rc8 24. Qc2+ g6 25.
+Qc6 Qd5 26. Rec1 Qxc6 27. Rxc6 g5 28. Rac1) 17... Nf5 18. d5 {INACCURACY (0.00)}
+({(+0.58) The best move was} 18. Qe2 Nfd6 19. e4 a5 20. Raa1 axb4 21. axb4 Qd7
+22. Bd3 Rfd8 23. Red1 Rxa1 24. Rxa1 f5 25. Ra7 fxe4 26. Nxe4 Bxe4 27. Bxe4 Nxe4)
+18... Nh4 19. Nxh4 Qxh4 {Critical move.} 20. Qd3 f5 21. Bd1 {INACCURACY (-1.02)}
+({(+0.07) The best move was} 21. a4 Rad8 22. Qd4 Qxd4 23. exd4 Bxd5 24. Nxd5
+exd5 25. axb5 axb5 26. Ra7 Rde8 27. Rxe8 Rxe8 28. f3 Ne3 29. Rxc7 Nxc2 30. Rxc2
+Kf8) 21... e5? {MISTAKE (+0.27)} ({(-1.02) The best move was} 21... exd5 22. Bb3
+c6 23. Ne2 Ne5 24. Qd4 Ng4 25. Qf4 g5 26. Qg3 Qxg3 27. hxg3 a5 28. Nd4 Ne5 29.
+Ne6 Rf7 30. bxa5 Rxa5 31. Nc5 Rh7) 22. e4 f4 23. Qf3 {INACCURACY (+0.16)}
+({(+0.67) The best move was} 23. a4 Nd6 24. Bf3 Qe7 25. Rea1 c6 26. dxc6 Bxc6
+27. axb5 Bxb5 28. Nxb5 Nxb5 29. Qc4+ Kh8 30. Rxa6 Rxa6 31. Rxa6 Rb8 32. Bg4 Nd4
+33. Ra4 Kh7 34. h3 f3 35. gxf3 Qg5 36. Kg2 Rf8 37. Kh1 Qh4) 23... Rad8 24. a4
+bxa4? ± {MISTAKE (+1.94)} ({(+0.48) The best move was} 24... Qe7 25. Be2 c6 26.
+Bxc4 bxc4 27. Rd2 cxd5 28. exd5 Rfe8 29. b5 axb5 30. axb5 Qd6 31. Re4 Qb4 32.
+Rd1 Kh7 33. g3 Kg8 34. Kg2 Qc5 35. gxf4 Bxd5) 25. Nxa4 Nd6 26. Nc5 Bc8 27. Ne6 =
+{INACCURACY (+0.89)} ({(+1.76) The best move was} 27. Qh5 Qe7 28. Bg4 Bxg4 29.
+Qxg4 Ra8 30. Rea1 Rfb8 31. Ra4 Nb5 32. Rxa6 Rxa6 33. Rxa6 Nd6 34. Ra4 Nb5 35.
+Nd7 Rd8 36. Qe6+ Qxe6 37. dxe6 Re8 38. Ra6 Nd4) 27... Bxe6 28. dxe6 {Critical
+move.} 28... Nb5 29. Bb3? {MISTAKE (-0.14)} ({(+1.09) The best move was} 29. Qh5
+Qf6 30. Rxa6 Nd4 31. Bg4 Rb8 32. Ra5 f3 33. gxf3 Rxb4 34. Rd1 Rb6 35. e7 Qxe7
+36. Rxe5 Qb4 37. Kh1 Ne2 38. Re8 Nf4 39. Qe5 Rxe8 40. Qxe8+ Qf8 41. Qa4 Rd6 42.
+e5 Rxd1+ 43. Qxd1) 29... Qe7 30. Rxa6 Nd4 31. Qc3 Nxb3? ± {MISTAKE (+1.50)}
+({(0.00) The best move was} 31... f3 32. g3 Ne2+ 33. Rxe2 fxe2 34. Bd5 Rb8 35.
+Qe1 Rxb4 36. Qxe2 Kh8 37. Qc2 Qf6 38. Rc6 Rb1+ 39. Qxb1 Qxf2+ 40. Kh1 Qf3+ 41.
+Kg1 Qf2+) 32. Qxb3 Kh8 {INACCURACY (+2.28)} ({(+1.35) The best move was} 32...
+Rd4 33. b5 Rb8 34. Rb1 Qc5 35. e7+ Qc4 36. Qh3 Qf7 37. Qe6 Re8 38. Qxe5 Rd7 39.
+f3 Rexe7 40. Ra8+ Kh7 41. Qc3 Re8 42. Rxe8 Qxe8 43. Qc1 Qf7 44. Qc2) 33. f3? =
+{MISTAKE (+0.38)} ({(+2.28) The best move was} 33. b5 f3 34. g3 Rd4 35. Rc6 Qb4
+36. Qxb4 Rxb4 37. Rc5 Re8 38. Rxe5 Kh7 39. h4 Kg6 40. Re3 Kf6 41. Rc5 Kxe6 42.
+Rxf3 Rxe4 43. Rxc7) 33... c5? ± {MISTAKE (+1.81)} ({(+0.38) The best move was}
+33... Rd2 34. Kh1 Rfd8 35. b5 Kh7 36. Rg1 R8d3 37. Qc4 Rd1 38. Ra1 Rd4 39. Qc3
+Rxa1 40. Rxa1 Qxe6 41. Qxc7 Rb4 42. Qb8 Rb2 43. Rc1 Qe7 44. h3 Qg5 45. Rg1 Rb3
+46. Qf8 Rxb5) 34. b5 {Critical move.} 34... Rc8? {MISTAKE (+2.70)} ({(+1.09) The
+best move was} 34... Rd2 35. Kh1 Rfd8 36. Rg1 Kh7 37. Rc6 R8d3 38. Qb1 c4 39.
+Qa1 c3 40. Rxc3 Qxe6 41. Rxd3 Rxd3 42. Rd1 Rxd1+ 43. Qxd1 Qb6 44. Qb1 Kg8 45.
+Qb3+ Kh7 46. Qc4 Qf2) 35. Rc1 Ra8 {INACCURACY (+4.62)} ({(+2.94) The best move
+was} 35... c4 36. Rxc4 Rxc4 37. Qxc4 Rd8 38. Ra1 Rd6 39. Rb1 Rb6 40. Qc8+ Kh7
+41. Qd7 Rxe6 42. Qxe7 Rxe7 43. b6 Rb7 44. Kf2 Kg8 45. Ke2 Kf7 46. Kd3 Ke7 47.
+Kc4 Kd6 48. Kb5 Rb8 49. Ra1 Ke6 50. Kc6) 36. Qa2? {MISTAKE (+2.82)} ({(+4.62)
+The best move was} 36. Rxa8 Rxa8 37. b6 Rb8 38. Rb1 Kh7 39. Qd5 Rb7 40. h3 Kg6
+41. Rb5 Kh7 42. Qc6 Qh4 43. Rb1 Qe7 44. Kh2 Kg8 45. Qd5 Kh7 46. Kh1 Kg8 47. Rb5
+Kh7 48. Qxe5) 36... Rxa6 {INACCURACY (+3.85)} ({(+2.82) The best move was} 36...
+Rab8 37. Ra7 Qd6 38. Qd5 Qb6 39. Rf7 Qxb5 40. Qxe5 Rg8 41. Rc7 c4 42. Qxb5 Rxb5
+43. R1xc4 Re8 44. Rc8 Rb8 45. Rxb8 Rxb8 46. h4 Re8 47. Rc6 Kg8 48. Kh2 Kf8 49.
+Kh3 Ke7) 37. Qxa6? {MISTAKE (+2.28)} ({(+3.85) The best move was} 37. bxa6 Qa7
+38. Kh1 Rc8 39. Qc4 Kh7 40. Ra1 Rc7 41. h3 Kg6 42. Qd5 c4 43. Qxe5 Kh7 44. Qf5+
+g6 45. Qf6 c3 46. e7 Rxe7 47. Qxc3) 37... Rb8 {INACCURACY (+2.87)} ({(+2.28) The
+best move was} 37... Rd8 38. h3 Kh7 39. Qc6 Rd6 40. Qxc5 Qxe6 41. Qc8 Qg6 42.
+Qf5 Qxf5 43. exf5 Kg8 44. Kf1 Kf7 45. Ke2 Ke7 46. Rc7+ Kf6 47. Rc6 Rxc6 48. bxc6
+Kxf5) 38. Qc6 Kh7 39. Rxc5? {MISTAKE (+1.55)} ({(+2.95) The best move was} 39.
+Rb1 c4 40. h3 Qe8 41. Qxc4 Rb6 42. Qd5 Qxe6 43. Qxe6 Rxe6 44. b6 Re8 45. b7 Rb8
+46. g3 Kg6 47. Kg2 Kf6 48. Rb6+ Kf7 49. gxf4 exf4 50. e5) 39... Qa7 40. h3
+Qa1+?? {BLUNDER (+7.37)} ({(+2.25) The best move was} 40... Rb6 41. Qc8 Rxb5 42.
+e7 Rb1+ 43. Kh2 Qxe7 44. Qf5+ g6 45. Rxe5 gxf5 46. Rxe7+ Kg8 47. Re5 fxe4 48.
+Rxe4 Rb3 49. Rxf4 Rb6 50. Kg3 Kg7 51. Ra4 Kg6 52. Ra7 Kg5 53. Rc7 Kg6 54. Kf4)
+41. Kh2 Qa7 42. Qd5 Qe7 43. Qxe5 Qh4 {INACCURACY (+9.19)} ({(+6.95) The best
+move was} 43... Qg5 44. Qf5+ Qxf5 45. exf5 Kg8 46. Rc6 Kf8 47. b6 Ke8 48. g3 h5
+49. h4 Kf8 50. gxf4 Ke8 51. Kg3 Kf8 52. Kh3 Ke8 53. Rc7 Rxb6 54. Rxg7 Rd6 55.
+Rh7 Kd8 56. Kg3 Ke8 57. Rxh5) 44. Qf5+ Kh8 45. Qg4 {INACCURACY (+6.67)}
+({(+8.28) The best move was} 45. Qg6 Qf6 46. Qxf6 gxf6 47. Rc7 Rxb5 48. Rc8+ Kg7
+49. e7 Re5 50. e8=Q Rxe8 51. Rxe8 h5 52. Rc8 f5 53. exf5 Kf6 54. Rc5 Kg7 55.
+Rd5) 45... Qf6? {MISTAKE (+11.21)} ({(+6.67) The best move was} 45... Qxg4 46.
+hxg4 Kg8 47. g3 g5 48. gxf4 gxf4 49. b6 Kf8 50. Rc6 Ke8 51. Kh3 Ke7 52. Kh4 Rd8
+53. g5 hxg5+ 54. Kxg5 Rf8 55. b7 Rb8 56. Rb6 Kd8 57. Kxf4 Kc7 58. Rb4 Kc6 59.
+Kf5 Rxb7 60. Rxb7 Kxb7) 46. Rf5 Qe7 47. Rf7 Qd6?? {BLUNDER (♔ Mate in 1)}
+({(+15.87) The best move was} 47... Qg5 48. Qxg5 hxg5 49. e7 Kg8 50. Rf8+ Rxf8
+51. exf8=R+ Kxf8 52. b6 Kf7 53. b7 Kg6 54. b8=Q Kf7 55. Qe5 Kg6 56. Qf5+ Kh6 57.
+Qf7 Kh7 58. Qh5+ Kg8 59. Qxg5 Kf8 60. Qg6 Kg8 61. Qf5 Kh8 62. Qxf4 Kg8) 48.
+Qxg7# 1-0

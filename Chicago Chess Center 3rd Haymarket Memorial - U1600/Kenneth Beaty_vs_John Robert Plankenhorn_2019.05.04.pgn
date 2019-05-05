@@ -1,0 +1,65 @@
+[Event "Chicago Chess Center 3rd Haymarket Memorial - U1600"]
+[Site "UIC Chicago East Student Center, Chicago, IL"]
+[Date "2019.05.04"]
+[Round "1"]
+[White "Kenneth Beaty"]
+[Black "John Robert Plankenhorn"]
+[Result "1-0"]
+
+1. e4 e5 2. d3 Nf6 3. Nd2 d5 4. h3 {INACCURACY (-0.50)} ({(+0.01) The best move
+was} 4. Ngf3 Nc6 5. Be2 Bd6 6. O-O O-O 7. exd5 Nxd5 8. Re1 h6 9. Bf1 a5 10. Nc4
+Qf6 11. Ncd2 Qg6 12. Nc4 Bg4 13. h3 Bxf3 14. Qxf3) 4... Bb4 5. c3 Be7 6. a4
+{INACCURACY (-0.92)} ({(+0.23) The best move was} 6. Ngf3 Nc6 7. Be2 a5 8. O-O
+O-O 9. d4 Nxe4 10. Nxe5 Nxe5 11. dxe5 a4 12. Qc2 Bf5 13. Bd3 Nxd2 14. Bxd2 Bxd3
+15. Qxd3 c5 16. Be3 Qd7 17. f4 Rfd8 18. Rad1 Qe6 19. Qe2) 6... a5 {INACCURACY
+(-0.01)} ({(-0.92) The best move was} 6... c5 7. Ngf3 Nc6 8. Be2 O-O 9. b3 Qc7
+10. O-O b6 11. Bb2 Bb7 12. Qc2 Rad8 13. Rfe1 h6 14. Nf1 Rfe8 15. Ng3 g6 16. Rad1
+Rd7 17. Nd2 Red8 18. exd5) 7. Be2 O-O 8. Qc2 {INACCURACY (-0.76)} ({(+0.04) The
+best move was} 8. Ngf3 Nc6 9. O-O h6 10. Re1 Be6 11. exd5 Bxd5 12. Bf1 Nd7 13.
+Nc4 Bxc4 14. dxc4 Nc5 15. Qxd8 Rfxd8 16. Nxe5 Nxe5 17. Rxe5 Bd6 18. Rf5 Nb3)
+8... Nc6 9. g4 {INACCURACY (-0.92)} ({(-0.38) The best move was} 9. Ngf3 h6 10.
+O-O Re8 11. Rd1 Be6 12. exd5 Nxd5 13. Bf1 Nb6 14. Re1 Nd7 15. d4 exd4 16. Nxd4
+Nxd4 17. cxd4 Bb4 18. Re3 Bd5 19. Rxe8+ Qxe8 20. Qxc7 Bc6) 9... d4 10. Nf1 b6
+11. Ng3 Re8 {INACCURACY (-0.86)} ({(-1.40) The best move was} 11... Nd7 12. Nf3
+Nc5 13. Nf5 Be6 14. O-O Bf6 15. Ra3 g6 16. cxd4 exd4 17. Nh6+ Kh8 18. Bf4 Re8
+19. Qd2 Bg7 20. Bg3 Qd7 21. Rc1 f6) 12. g5 ∓ {INACCURACY (-1.60)} ({(-0.86) The
+best move was} 12. Nf3 Nd7 13. O-O Bb7 14. Nf5 Nf8 15. Bd2 Ne6 16. h4 Qd7 17. g5
+Bf8 18. cxd4 Ncxd4 19. N5xd4 Nxd4 20. Nxd4 exd4 21. Bf4 c5 22. h5 Qh3 23. Rfc1)
+12... Nd7 13. h4 Nf8 = {INACCURACY (-0.68)} ({(-1.39) The best move was} 13...
+Nc5 14. Nf3 Be6 15. h5 Qd7 16. Kf1 Bg4 17. g6 Rf8 18. gxh7+ Kh8 19. Rb1 Be6 20.
+b3 Bg4 21. Kg2 Ne6 22. h6 Bxf3+ 23. Bxf3 g6 24. Bg4 dxc3 25. Qxc3 Kxh7) 14. Nf5
+{INACCURACY (-1.45)} ({(-0.68) The best move was} 14. Nf3 Ne6 15. Kf1 g6 16. Bd2
+Rf8 17. Qb3 dxc3 18. bxc3 Nf4 19. Nxe5 Nxe2 20. Nxc6 Nxg3+ 21. Kg2 Qxd3 22.
+Nxe7+ Kg7 23. Be3 Qxe4+ 24. Kxg3 Qxe7 25. Qd5 Be6 26. Qe5+ Kg8 27. h5) 14...
+Ng6? {MISTAKE (+0.25)} ({(-1.45) The best move was} 14... Ne6 15. Kf1 Nc5 16.
+Nxe7+ Qxe7 17. h5 Be6 18. Nf3 Qd7 19. Rh4 Rad8 20. Kg1 Bg4 21. h6 Bxf3 22. Bxf3
+dxc3 23. hxg7 Qxd3) 15. Nf3? {MISTAKE (-1.03)} ({(+0.25) The best move was} 15.
+h5 Bxf5 16. exf5 Nf4 17. Bf3 Qd7 18. Bxf4 exf4 19. g6 Rad8 20. gxf7+ Kxf7 21.
+O-O-O Ne5 22. h6 Bf6 23. cxd4 Qxd4 24. hxg7 Kxg7 25. Be4 Kh8 26. Nf3 Nxf3) 15...
+Nf4? {MISTAKE (+1.20)} ({(-1.03) The best move was} 15... Bxf5 16. exf5 Nf4 17.
+Bxf4 exf4 18. f6 Bc5 19. O-O-O Qd5 20. c4 Qe6 21. Bf1 Nb4 22. Qb3 gxf6 23. Re1
+Qg4 24. Qd1 Rxe1 25. Nxe1 Qxd1+ 26. Kxd1 fxg5 27. hxg5) 16. Bxf4 ± exf4 17.
+N5xd4 Nxd4 18. Nxd4 Bd7 19. f3 c5 20. Nf5 = {INACCURACY (+0.46)} ({(+1.12) The
+best move was} 20. Nb5 Bxb5 21. axb5 h5 22. Qa4 g6 23. O-O-O Qc7 24. Kb1 Red8
+25. d4 Rac8 26. dxc5 Rxd1+ 27. Rxd1 Qxc5 28. Rd4 Rd8 29. Rxd8+ Bxd8 30. Qd1 Be7
+31. Ka2 Kg7) 20... Bxf5 21. exf5 f6? ± {MISTAKE (+2.07)} ({(+0.31) The best move
+was} 21... Qd5 22. O-O-O Qxf5 23. d4 Qxc2+ 24. Kxc2 cxd4 25. Rxd4 Bxg5 26. Bb5
+Bf6 27. Rxf4 Re3 28. Rd1 Rc8 29. Rd7 Rd8 30. Rxd8+ Bxd8 31. Kd2 Re5 32. Rg4 Rh5
+33. Rd4 Bxh4) 22. Qb3+ = {INACCURACY (+1.23)} ({(+2.07) The best move was} 22.
+d4 cxd4 23. O-O-O Bc5 24. Bc4+ Kh8 25. Be6 Ra7 26. Kb1 b5 27. axb5 Qb6 28. h5 h6
+29. gxh6 gxh6 30. c4 Rg7 31. Rh4 Qc7 32. Qe4 d3) 22... Kh8 23. O-O-O {Critical
+move.} 23... fxg5 {INACCURACY (+1.46)} ({(+0.90) The best move was} 23... b5 24.
+Qxb5 Rb8 25. Qc4 fxg5 26. hxg5 Bxg5 27. Rd2 Re5 28. Bd1 Qd5 29. Qxd5 Rxd5 30.
+Bc2 h6 31. Rh5 Rd6 32. Bb1 Rd5 33. Re2) 24. d4 ± Qc8?? {BLUNDER (+8.53)}
+({(+1.91) The best move was} 24... gxh4 25. dxc5 Qc7 26. Bb5 Rf8 27. c6 Bf6 28.
+Kb1 Rad8 29. Rd7 Qe5 30. Qe6 Qc5 31. c7 Rde8 32. Qc4 Qxf5+ 33. Ka2 Qc5 34. Rd5
+Qxc4+ 35. Bxc4 Re5 36. Rxe5) 25. hxg5 Bxg5 26. Bd3?? {BLUNDER (+2.64)} ({(+6.23)
+The best move was} 26. Qf7 Qc6 27. Bb5 Qxf3 28. Qg6 Qxh1 29. Rxh1 Re1+ 30. Kc2
+Rxh1 31. Qxg5 Rh6 32. Qxf4 Rf6 33. Bd7 Rff8 34. d5 Rad8 35. Be6 c4 36. d6) 26...
+cxd4?? {BLUNDER (♔ Mate in 6)} ({(+2.64) The best move was} 26... h6 27. Qxb6 c4
+28. Qg6 cxd3 29. f6 Qb7 30. Qxg5 Kg8 31. Qxf4 Re2 32. Rd2 Qf7 33. Rg1 Rf8 34.
+Qxh6 Qxf6 35. Qxf6 Rxf6 36. Rxd3 Kf7 37. Rd2 Rxd2) 27. f6 Bxf6?? {BLUNDER (♔
+Mate in 1)} ({(+35.50) The best move was} 27... Re6 28. Rxh7+ Kg8 29. Rxg7+ Kf8
+30. Rxg5 Qd7 31. Rh1 Rae8 32. Rh8+ Kf7 33. Rh7+ Kf8 34. Rxd7 Re1+ 35. Kd2 R8e6
+36. Qa3+ Ke8 37. f7+ Kxd7 38. f8=Q dxc3+ 39. Qxc3 R1e2+ 40. Bxe2 Rd6+ 41. Kc1
+Rd1+ 42. Bxd1) 28. Rxh7# 1-0
