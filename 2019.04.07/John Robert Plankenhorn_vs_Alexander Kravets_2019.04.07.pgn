@@ -1,0 +1,50 @@
+[Event "Chicago Chess Center Plus-Score #35 - U1700"]
+[Site "UIC Student Center East, Chicago, IL"]
+[Date "2019.04.07"]
+[Round "1"]
+[White "John Robert Plankenhorn"]
+[Black "Alexander Kravets"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. c3 {INACCURACY (-0.30)}
+({(+0.24) The best move was} 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8
+11. Nbd2 exd4 12. cxd4 Na5 13. Bc2 c5 14. Nb3 Nc4 15. Nbd2 Na5 16. Nf1 cxd4 17.
+Nxd4 Rc8 18. Ng3 g6 19. Bf4) 6... b5 {INACCURACY (+0.42)} ({(-0.30) The best
+move was} 6... Nxe4 7. Bxc6 dxc6 8. Nxe5 O-O 9. Re1 Nf6 10. d3 c5 11. Nd2 Re8
+12. Ndc4 Be6 13. Bf4 Nd5 14. Bg3 Bf8 15. h3 f6 16. Nf3 Bf7 17. Rxe8 Qxe8 18. Bh2
+Be6) 7. Bc2 O-O 8. Re1 d6 9. h3 Bb7 10. d4 h6 11. d5 {INACCURACY (+0.13)}
+({(+1.24) The best move was} 11. Nbd2 Nd7 12. d5 Na5 13. b4 Nc4 14. Nxc4 bxc4
+15. Qe2 c6 16. dxc6 Bxc6 17. a4 a5 18. Qxc4 Bb7 19. Qb3 Qc7 20. Bd3 Nf6 21. Qc2
+axb4 22. cxb4 Qxc2 23. Bxc2) 11... Nb8 12. Nbd2 Nbd7 13. Nf1 c6 14. dxc6 Bxc6
+15. Ng3 Re8 16. Nf5 Nc5 17. Ng3? {MISTAKE (-0.50)} ({(+0.99) The best move was}
+17. Bxh6 gxh6 18. Nxh6+ Kg7 19. Ng5 Rf8 20. Nf5+ Kh8 21. Qd2 Ng8 22. Qe2 Nf6 23.
+Rad1 Ne6 24. Qd2 Ng8 25. Nf3 Nf4 26. g3 Ne6 27. Nxd6 Bxd6 28. Qxd6 Qxd6 29.
+Rxd6) 17... Bf8 18. b4 Ncd7 19. Nh4 Nb6 20. Nhf5 d5 21. Kh1 {INACCURACY (-1.42)}
+({(-0.48) The best move was} 21. Nh5 Nxh5 22. Qxh5 Qf6 23. Be3 Nc4 24. exd5 Bxd5
+25. Rad1 Nxe3 26. Nxe3 Bxa2 27. Be4 Rad8 28. Ng4 Qf4 29. Bc6 Rxd1 30. Rxd1 Rc8
+31. Qxe5 Qxe5 32. Nxe5 Be6) 21... Qc7 22. a3 ∓ Red8 = {INACCURACY (-0.77)}
+({(-1.53) The best move was} 22... dxe4 23. Qe2 Rad8 24. Nxe4 Bxe4 25. Bxe4 Nxe4
+26. Qxe4 Qxc3 27. Be3 Nc4 28. Qg4 Nxe3 29. Nxe3 Rd3 30. Qe4 Qd4 31. Ng4 Qxe4 32.
+Rxe4 Rd2 33. Rxe5 Rxe5 34. Nxe5) 23. Qe2 {INACCURACY (-1.31)} ({(-0.77) The best
+move was} 23. Qf3 Nbd7 24. Be3 Bb7 25. exd5 Bxd5 26. Ne4 Kh8 27. Rad1 Qc6 28.
+Bc1 Rac8 29. Kh2 Bxe4 30. Bxe4 Nxe4 31. Qxe4 Qxe4 32. Rxe4 Rxc3) 23... dxe4 24.
+Nxe4 Nxe4 25. Bxe4 Bxe4 26. Qxe4 Qxc3 27. Be3 Nc4 28. Rec1 ∓ {INACCURACY
+(-1.63)} ({(-0.76) The best move was} 28. Bc5 Qd3 29. Qxd3 Rxd3 30. a4 Rc8 31.
+Bxf8 Rxf8 32. axb5 axb5 33. Ra7 Rd2 34. Kg1 Rb2 35. Ne7+ Kh7 36. Nc6 f6 37. Rd1
+e4 38. Rdd7 Rg8 39. Re7 Nd6 40. Rad7 Rd2 41. Kh2) 28... Qd3 29. Qg4 Nxe3 30.
+Nxe3 Qd4 31. Qg3 Qf4 32. Qxf4 exf4 33. Ng4 Rd2 34. Rc7 {INACCURACY (-3.15)}
+({(-2.06) The best move was} 34. Kg1 a5 35. Rd1 Rb2 36. Ne5 axb4 37. axb4 Rxa1
+38. Rxa1 Bxb4 39. Nd3 Rb3 40. Nxf4 Bd6 41. Nd5 Rb2 42. Ne3 Kh7 43. g3 Bc5 44.
+Rc1 Bxe3 45. fxe3 f6 46. Rd1 Re2) 34... h5 {INACCURACY (-2.47)} ({(-3.15) The
+best move was} 34... f6 35. Nh2 Rxf2 36. Nf3 a5 37. bxa5 Rxa5 38. Rb7 Rb2 39.
+Rb8 Kf7 40. Nd4 Bd6 41. Rb7+ Kg6 42. Rf1 Rxa3 43. Rxb5 Rba2 44. Ne6 f3 45. gxf3
+Kf7) 35. Ne5 Bd6 36. Nf3 Rxf2 37. Rc6 Be7 38. Kg1 Re2 {INACCURACY (-2.58)}
+({(-3.27) The best move was} 38... Rb2 39. Ne1 Bf6 40. Rd1 Ra2 41. Nd3 Bd4+ 42.
+Kh1 Be3 43. Rf1 g5 44. Nc5 Rxa3 45. Ne4 Rb3 46. Ra1 Rxb4 47. Nxg5 Kg7 48. Rcxa6
+Rxa6 49. Rxa6) 39. Nd4 Rd2 40. Nf5 {INACCURACY (-4.04)} ({(-2.98) The best move
+was} 40. Nf3 Rd5 41. Re1 Bf8 42. Re4 Rd1+ 43. Kf2 Rd3 44. Ne5 Rd2+ 45. Kf1 a5
+46. Nf3 Ra2 47. Rxf4 Rxa3 48. bxa5 R3xa5 49. Rf5 g6 50. Rd5 b4 51. Rxa5 Rxa5 52.
+Rc8 Ra1+ 53. Kf2 b3) 40... Bf6 41. Nd6?? {BLUNDER (-10.42)} ({(-3.17) The best
+move was} 41. Rac1 Re8 42. Rc8 Bd8 43. Kf1 g6 44. Nh4 Kf8 45. Nf3 Ra2 46. Re1
+Rxe1+ 47. Nxe1 Ke7 48. Nd3 g5 49. h4 Rxa3 50. Ke2 Ra2+ 51. Kf3 g4+ 52. Ke4 Rxg2
+53. Nxf4 Rh2 54. Ra8 Rxh4) 41... Bxa1 *
